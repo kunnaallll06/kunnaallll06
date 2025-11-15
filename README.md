@@ -23,30 +23,6 @@
 
 ---
 
-## 🛠️ Skills & Tools
-
-### 🚩 Querying & Databases
-<p>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-</p>
-
-### 📊 BI & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### 📑 Spreadsheets
-<p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-### 🧩 Other Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
 
 ## 📌 Featured Projects
 
@@ -68,19 +44,6 @@ Includes drill-down visuals and trend analysis.
 Performed SQL cleaning & transformations in SSMS and built a dynamic Power BI dashboard with KPIs, slicers, and time-based insights.  
 Analyzes pizza category, size, product, and order trends.  
 🔗 **GitHub Repo:** https://github.com/kunnaallll06/Pizza-Hut-Sales-Dashboard-SQL-Power-BI-Project  
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunnaallll06&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunnaallll06&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunnaallll06&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
