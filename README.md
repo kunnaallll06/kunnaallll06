@@ -16,10 +16,10 @@
 
 ## 🚀 What I Do
 - 🔍 Analyze datasets to uncover business patterns  
-- 📊 Build dashboards and visual reports for smarter decision-making  
+- 📊 Build dashboards and visual reports for data-driven decision making  
 - 🧹 Perform data cleaning & transformation using SQL and Excel  
 - 🧠 Solve real-world analytical problems through structured thinking  
-- 📈 Create KPIs and dashboards in Power BI  
+- 📈 Create KPIs & visuals using Power BI  
 
 ---
 
@@ -51,16 +51,23 @@
 ## 📌 Featured Projects
 
 ### 📊 **Retail Sales Insights using SQL**  
-🔹 End-to-end SQL project analyzing sales trends, customer segmentation & product performance  
-🔹 Includes documentation, datasets, queries & report views  
-🔹 Built using advanced SQL (CTEs, window functions, segmentation logic)
+End-to-end SQL analytics project analyzing sales trends, customer segmentation & product performance.  
+Uses advanced SQL (CTEs, window functions, segmentation logic, reporting views).  
+🔗 **GitHub Repo:** https://github.com/kunnaallll06/Retail-Sales-Insights-SQL  
 
 ---
 
-### 📈 **Power BI Dashboard – Sales Analytics**
-🔹 Interactive KPIs, visuals & filters  
-🔹 Insights on customers, products & regions  
-🔹 Built using DAX + clean and simple storytelling visuals
+### 📈 **Sales Performance Dashboard – Power BI**  
+Interactive dashboard analyzing revenue, profit, and region-wise sales trends using DAX measures and KPIs.  
+Includes drill-down visuals and trend analysis.  
+🔗 **GitHub Repo:** https://github.com/kunnaallll06/Sales_Performance_Dashboard_PowerBI  
+
+---
+
+### 🍕 **Pizza Hut Sales Dashboard – SQL + Power BI**  
+Performed SQL cleaning & transformations in SSMS and built a dynamic Power BI dashboard with KPIs, slicers, and time-based insights.  
+Analyzes pizza category, size, product, and order trends.  
+🔗 **GitHub Repo:** https://github.com/kunnaallll06/Pizza-Hut-Sales-Dashboard-SQL-Power-BI-Project  
 
 ---
 
@@ -78,9 +85,9 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced SQL Techniques  
+- Advanced SQL Concepts  
 - Power BI DAX & Data Modeling  
-- Excel Advanced Functions & Automation  
+- Excel Advanced Functions  
 
 ---
 
